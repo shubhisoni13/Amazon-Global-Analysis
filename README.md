@@ -6,7 +6,7 @@ https://app.powerbi.com/links/LtAiRZsQnQ?ctid=ffa5b9ed-b71c-4988-a7bb-e19b0f3c00
 ![Screenshot 2024-12-29 184355](https://github.com/user-attachments/assets/8814c728-0c69-42ac-b534-b613b494d7a8)
 
 
-🚀 **Technologies Used:** SQL | Power BI | Excel | Power Query  
+### 🚀 **Technologies Used:** SQL | Power BI | Excel | Power Query  
 
 ### **🔍 Overview**  
 This project analyzes **global sales data** for Amazon, aiming to uncover key trends and optimize sales strategies. Using **SQL, Power BI**, and **Power Query**, I identified areas for growth and built an **interactive dashboard** to visualize critical metrics. The analysis resulted in a **10% increase in sales**.  
